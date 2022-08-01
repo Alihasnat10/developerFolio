@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/developerFolio/static/css/main.f2d9888b.chunk.css",
+    "main.js": "/developerFolio/static/js/main.90d35cec.chunk.js",
+    "main.js.map": "/developerFolio/static/js/main.90d35cec.chunk.js.map",
+    "runtime-main.js": "/developerFolio/static/js/runtime-main.eb589d14.js",
+    "runtime-main.js.map": "/developerFolio/static/js/runtime-main.eb589d14.js.map",
+    "static/js/2.1462d3b5.chunk.js": "/developerFolio/static/js/2.1462d3b5.chunk.js",
+    "static/js/2.1462d3b5.chunk.js.map": "/developerFolio/static/js/2.1462d3b5.chunk.js.map",
+    "static/css/3.df879eac.chunk.css": "/developerFolio/static/css/3.df879eac.chunk.css",
+    "static/js/3.7c23db03.chunk.js": "/developerFolio/static/js/3.7c23db03.chunk.js",
+    "static/js/3.7c23db03.chunk.js.map": "/developerFolio/static/js/3.7c23db03.chunk.js.map",
+    "static/css/4.e91a4b36.chunk.css": "/developerFolio/static/css/4.e91a4b36.chunk.css",
+    "static/js/4.d9bdbd92.chunk.js": "/developerFolio/static/js/4.d9bdbd92.chunk.js",
+    "static/js/4.d9bdbd92.chunk.js.map": "/developerFolio/static/js/4.d9bdbd92.chunk.js.map",
+    "index.html": "/developerFolio/index.html",
+    "precache-manifest.79814fed14af871a93677e9892ba9ef3.js": "/developerFolio/precache-manifest.79814fed14af871a93677e9892ba9ef3.js",
+    "service-worker.js": "/developerFolio/service-worker.js",
+    "static/css/3.df879eac.chunk.css.map": "/developerFolio/static/css/3.df879eac.chunk.css.map",
+    "static/css/4.e91a4b36.chunk.css.map": "/developerFolio/static/css/4.e91a4b36.chunk.css.map",
+    "static/css/main.f2d9888b.chunk.css.map": "/developerFolio/static/css/main.f2d9888b.chunk.css.map",
+    "static/js/2.1462d3b5.chunk.js.LICENSE.txt": "/developerFolio/static/js/2.1462d3b5.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/developerFolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/NustLogo.jpeg": "/developerFolio/static/media/NustLogo.dc0dd180.jpeg",
+    "static/media/contactMailDark.svg": "/developerFolio/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/developerFolio/static/media/developerActivity.59389695.svg",
+    "static/media/manOnTable.svg": "/developerFolio/static/media/manOnTable.644d289d.svg",
+    "static/media/nextuLogo.webp": "/developerFolio/static/media/nextuLogo.829ad0a1.webp",
+    "static/media/saayaHealthLogo.webp": "/developerFolio/static/media/saayaHealthLogo.25018d29.webp",
+    "static/media/skill.svg": "/developerFolio/static/media/skill.34409398.svg",
+    "static/media/stanfordLogo.png": "/developerFolio/static/media/stanfordLogo.3b758ef5.png",
+    "static/media/TalkCard.scss": "/developerFolio/static/media/talksCardBack.13780cdd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb589d14.js",
+    "static/js/2.1462d3b5.chunk.js",
+    "static/css/main.f2d9888b.chunk.css",
+    "static/js/main.90d35cec.chunk.js"
+  ]
+}
